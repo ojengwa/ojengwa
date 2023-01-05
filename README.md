@@ -3,8 +3,6 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ojengwa&theme=default)
 
-[![Ojengwa's github activity graph](https://activity-graph.herokuapp.com/graph?username=ojengwa&theme=dracula)](https://github.com/ojengwa/github-readme-activity-graph)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ojengwa&theme=algolia)](https://github.com/ojengwa/github-readme-stats)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ojengwa.readme)
