@@ -2,11 +2,12 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ojengwa&theme=default)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ojengwa&theme=algolia)](https://github.com/ojengwa/github-readme-stats)
+[![Time stats](https://github-readme-stats.vercel.app/api/wakatime?username=bernard)](https://github.com/ojengwa)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ojengwa&theme=algolia)](https://github.com/ojengwa/github-readme-stats) -->
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ojengwa.readme)
 
-[![Time stats](https://github-readme-stats.vercel.app/api/wakatime?username=bernard)](https://github.com/ojengwa)
 
 
 - 🔭 I’m currently working on Acres Pro
