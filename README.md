@@ -1,4 +1,4 @@
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ojengwa&show_icons=true&theme=algolia&count_private=true)](https://github.com/ojengwa)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ojengwa&show_icons=true&theme=algolia)](https://github.com/ojengwa)
 
 
 [![Time stats](https://github-readme-stats.vercel.app/api/wakatime?username=bernard)](https://github.com/ojengwa)
