@@ -1,5 +1,7 @@
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ojengwa&show_icons=true&theme=algolia&hide_title=true)](https://github.com/ojengwa)
 
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ojengwa&theme=default)
 
 [![Time stats](https://github-readme-stats.vercel.app/api/wakatime?username=bernard)](https://github.com/ojengwa)
 
