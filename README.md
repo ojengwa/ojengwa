@@ -10,7 +10,6 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ojengwa.readme)
 
 
-- 🌱 I’m currently learning Golang
 - 👯 I’m looking to collaborate on solving problems for social good
 
 <!--
